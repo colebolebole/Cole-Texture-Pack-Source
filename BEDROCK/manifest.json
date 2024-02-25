@@ -1,0 +1,26 @@
+{
+  "format_version": 1,
+  "header": {
+    "description": "Cole Texture Pack",
+    "name": "cole texture pack 1.16.5 update 6",
+    "platform_locked": false,
+    "uuid": "40c1aec1-2a5a-4498-82af-cf3f02bc35b0",
+    "version": [
+      0,
+      0,
+      1
+    ]
+  },
+  "modules": [
+    {
+      "description": "Cole Texture Pack",
+      "type": "resources",
+      "uuid": "5bedfc9b-1184-4aab-9a18-3950e6cea9cd",
+      "version": [
+        0,
+        0,
+        1
+      ]
+    }
+  ]
+}
