@@ -1,7 +1,6 @@
 {
     "pack": {
         "description": "Cole Texture Pack",
-        "pack_format": 6,
-        "supported_formats": [1, 999]
+        "pack_format": 6
     }
 }
