@@ -1,5 +1,5 @@
 My texture pack source code
 
-Java: Latest
+Java: 1.6-26.2
 
 Bedrock: preferably latest.
