@@ -1,5 +1,7 @@
 My texture pack source code
 
-Java: 1.6-26.2
+# Java
+Base/Original MC Version : 1.16.5
+Supported MC Versions : 1.6.X Through 1.12.X - 1.13.X To Latest
 
-Bedrock: preferably latest.
+# Bedrock: Preferably latest.
